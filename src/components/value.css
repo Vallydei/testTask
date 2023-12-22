@@ -1,0 +1,16 @@
+.value {
+font-size: 2em;
+border-radius: 20px;
+padding: 30px;
+min-width: 290px;
+max-width: 600px;
+margin: 20px auto;
+background: linear-gradient(320deg, #5b58584d 0%, #d7d7d742 94%);
+box-shadow: 0 0 20px rgba(171, 167, 171, 0.778);
+transform: translateY(2px);
+transition:
+  transform 0.3s ease-in-out,
+  box-shadow 0.3s ease-in-out;
+
+}
+
